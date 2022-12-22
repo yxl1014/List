@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.17)
-project(L)
+project(List)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(L main.cpp)
+add_executable(List main.cpp)
